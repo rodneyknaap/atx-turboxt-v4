@@ -44,8 +44,8 @@ All the timing sensitive logic will be created inside CPLDs so we will gain a se
 Depending on how many CPLD pins will be available, we may also develop a CPLD version of XT-IDE logic in an attempt to gain a set timing design for the conversion mechanisms used in the XT-IDE interface and XT-IDE Universal BIOS.
 
 # Project status  
-The project is under development and currently the mainboard schematic is being revised from Rev3 to Rev4.
-Preparation is ongoing to migrate functions into one or more CPLDs and removing these from the mainboard.
+- the project is under development and currently the mainboard schematic is being revised from Rev3 to Rev4.
+- preparation is ongoing to migrate functions into one or more CPLDs and removing these from the mainboard.
 
 Kind regards,
 
