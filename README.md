@@ -1,7 +1,7 @@
 # atx-turboxt-v4
 ATX Turbo XT highly integrated PC mainboard
 
-## Revision 4 design of a PC/XT mainboard based on CPLD technology  
+# Revision 4 design of a PC/XT mainboard based on CPLD technology  
 The project will use CPLD technology to replace as many TTL ICs as possible in the IBM PC/XT design.  
 In addition as further development goals once the prototype is running, we will attempt to eliminate the need for a 8284 and 8288 and replace these functions with CPLD technology. Further we will attempt to make more upgrades and modifications to the XT system control.  
 
