@@ -40,12 +40,20 @@ The DMA timing will run at the DMAC relevant speed while the CPU will be able to
 
 Further, we will attempt to experiment with certain mechanisms from the PC/AT design to test and apply these on the XT design.
 Examples of this are DMA arbitration and wait state mechanisms.
-All the timing sensitive logic will be created inside CPLDs so we will gain a set design that is no longer depentent on logic speeds of TTL ICs.
-Depending on how many CPLD pins will be available, we may also develop a CPLD version of XT-IDE logic in an attempt to gain a set timing design for the conversion mechanisms used in the XT-IDE interface and XT-IDE Universal BIOS.
+All the timing sensitive logic will be created inside CPLDs so we will gain a set design that is no longer dependent on logic speeds of TTL ICs on the mainboard. This will simplify the building and debugging process if anyone wants to build this computer from these designs.
+Depending on how many CPLD pins will be available, we may also develop a CPLD version of XT-IDE logic in an attempt to also gain a set timing design for the conversion mechanisms used in the XT-IDE interface and XT-IDE Universal BIOS. This is under evaluation depending on how the design turns out further along while defining all the logic.
 
 # Project status  
 - the project is under development and currently the mainboard schematic is being revised from Rev3 to Rev4.
 - preparation is ongoing to migrate functions into one or more CPLDs and removing these from the mainboard.
+
+Provisional schematics will be published as soon as the concept is further along to be able to see the direction of this project.
+At that stage, a PCB layout will be created.
+This project will run on several SMD packages for several reasons:
+- integration using CPLDs with higher pin counts
+- reducing the PCB area even further
+- improving the high frequency properties of the PCB
+The aim will be to develop a very compact and at the same time very complete design.
 
 Kind regards,
 
