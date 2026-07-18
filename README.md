@@ -56,22 +56,19 @@ This project will run on several SMD packages for several reasons:
 - improving the high frequency properties of the PCB
 The aim will be to develop a very compact and at the same time very complete design.
 
-# Update regarding the project blog  
-From july 2026 I will only update my project blog on my own website and I will update the readme info on GitHub for the projects.  
+# Latest updates regarding the project are featured in forum and website
+I will update the project blog on my own website where you can read in more depth about the design process.  
+Also the latest specifications of the new system will be shared there [in the project thread](https://knaapic.nl/community/main-forum/project-to-create-the-turbo-xt-atx-mainboard-rev4/). 
 
-So anyone who is interested is hereby invited to take a look at my website.
-I created a forum system there and if you like to join, feel free to send me an email and I will create a login for you so you can post subjects and reply to threads. 
+You can join the project forum and participate in the thread if you like to get in touch and post messages on the forum system.  
+Simply leave me a short message [on the contact page](https://knaapic.nl/contact/) and I will provide you with a login for the website.
 
-You can find my website in the repository link URL or via https://www.knaapic.nl  
-The menu "Historic computing" contains dedicated pages for the repository projects.
-A lot of information is the same as here but some details have been elaborated on my website.
-The forum link is: 
-https://knaapic.nl/community/   
+A dedicated web page to outline the new design including the schematics and other details will be added to the website in the project page menu as soon as the project is taking more solid forms. Work is in progress and the schematic is advancing towards levels where I can distribute the logic between a few CPLDs and enter these into the schematic.
 
-Thank you for your interest, I look forward to hearing from you!
+Thank you for your interest, I look forward to hearing from you if you like the project!
 
 Kind regards,
 
 Rodney
 
-Updated last on july 11th, 2026.
+Updated last on july 18th, 2026.
